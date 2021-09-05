@@ -1,6 +1,6 @@
 using System;
 
-namespace WebCad.Models
+namespace WebCad.Models.ViewModels
 {
     public class ErrorViewModel
     {
